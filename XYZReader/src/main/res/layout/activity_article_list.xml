@@ -29,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?colorPrimary"
-        app:elevation="@dimen/default_elevation">
+        >
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
@@ -44,6 +44,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
                 android:layout_gravity="bottom"
+                app:elevation="@dimen/default_elevation"
                 app:layout_collapseMode="pin">
 
                 <ImageView
