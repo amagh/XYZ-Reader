@@ -1,4 +1,4 @@
-XYZ Reader
+# XYZ Reader
 
 Android Application to demonstrate the application of Material Design as a deliverable for Udacity's Nanodegree Program.
 It includes the use of:
