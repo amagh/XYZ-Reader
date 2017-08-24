@@ -1,3 +1,16 @@
-= XYZ Reader Starter Code
+XYZ Reader
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+Android Application to demonstrate the application of Material Design as a deliverable for Udacity's Nanodegree Program.
+It includes the use of:
+
+  - Colors from the Material Design Color Palette
+  
+  - Proper use of typography from Material Design Guidelines
+  
+  - Elevation of Views
+  
+  - Proper scaling of ImageViews
+  
+  - Use of AppCompatActivities for backwards compatibility
+  
+  - Use of Android Design Library items such as CoordinatorLayout, FloatingActionButtons, CollapsingToolbars, etc
